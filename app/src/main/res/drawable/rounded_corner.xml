@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="ExtraText">
+    //we use drawable file to do rounded border
+    <corners android:radius="8dp"/>
+    <solid android:color="#33B6B6B6"/>
+
+</shape>
